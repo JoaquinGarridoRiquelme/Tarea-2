@@ -186,3 +186,17 @@ Nuestro usuario ha ingresado la opción 8 del menú, por lo que entendemos que y
 ````
 Saliendo de la base de datos...
 ````
+## Contribuciones individuales
+
+### Nicolas Reed:
+- Rol asumido: Conductor
+- Implementación y modularización del código
+- Documentación y comentarios en el código
+- Auto-evaluación : 3 (Aporte excelente)
+
+### Joaquín Garrido:
+- Rol asumido : Navegador
+- Revisión y corrección de errores
+- Sugerencia de cambios y enfoque en las respuestas
+- Diseño y redacción del README.
+- Auto-evaluación : 3 (Aporte excelente)
