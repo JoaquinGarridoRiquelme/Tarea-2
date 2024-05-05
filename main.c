@@ -381,7 +381,7 @@ void buscar_por_rating(Map *pelis_byRating){
     printf(" [10.0]\n");
     // Se solicita al usuario que ingrese un rating dentro del rango
     // que desea observar.
-    printf("\nIngrese un rating para ingresar al rango deseado: \n");
+    printf("\nIngrese un rating dentro del rango deseado: \n");
     scanf(" %f", &rating); // Se lee el rango.
 
     //Se redondea el rating ingresado y se guarda en aux.
